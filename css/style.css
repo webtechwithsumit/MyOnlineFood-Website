@@ -82,7 +82,7 @@ html{
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('/projects/Project-2/bg2.jpg') no-repeat center center/cover;
+    background: url('../bg2.jpg') no-repeat center center/cover;
     height: 642px;
     top:0px;
     left:0px;
